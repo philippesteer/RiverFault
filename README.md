@@ -1,8 +1,8 @@
 # RiverFault
-A MATLAB model generating earthquakes that impact rivers
+A MATLAB model generating earthquakes that impact rivers. A paper describing the model is currently under preparation and will be submitted to Esurf.
 
 ## Getting Started
-RiverFault is a Matlab model. To run it you simply use model.m or use the associated livescript model.mlx. The scripts are commented.
+RiverFault is a Matlab model. To run it, simply use model.m or use the associated livescript model.mlx. The scripts are commented.
 
 ## Authors
 If you have any questions or remarks, please contact the authors:
